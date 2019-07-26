@@ -1,7 +1,7 @@
 '''
 Caesar Cipher 1.0
 
-Author: Lucas Barzan from Codenific.com
+Author: Lucas Barzan Demétrio
 
 -This is a simple encrypt/decrypt program based on Caesar Cipher. It is intended only for educational and personal purposes.
 
